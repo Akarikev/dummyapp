@@ -2,7 +2,13 @@
   "expo": {
     "name": "dummy",
     "slug": "dummy",
+    "scheme": "dummy",
     "version": "1.0.0",
+
+    "experiments": {
+      "tsconfigPaths": true
+    },
+
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -11,6 +17,15 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
+
+    "plugins": [
+      [
+        "expo-font",
+        {
+          "fonts": ["/assets/fonts/Inter-Black.ttf"]
+        }
+      ]
+    ],
     "ios": {
       "supportsTablet": true
     },
@@ -21,7 +36,8 @@
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/favicon.png",
+      "bundler": "metro"
     }
   }
 }
