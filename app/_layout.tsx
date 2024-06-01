@@ -6,6 +6,7 @@ import { ActivityIndicator } from "react-native";
 export default function RootLayout() {
   const [fontsLoaded, fontError] = useFonts({
     "Inter-Black": require("@/assets/fonts/Inter-Black.ttf"),
+    "Inter-Regular": require("@/assets/fonts/Inter-Regular.ttf"),
   });
 
   // const onLayoutRootView = useCallback(async () => {

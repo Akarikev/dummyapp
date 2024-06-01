@@ -22,7 +22,10 @@
       [
         "expo-font",
         {
-          "fonts": ["/assets/fonts/Inter-Black.ttf"]
+          "fonts": [
+            "/assets/fonts/Inter-Black.ttf",
+            "/assets/fonts/Inter-Regular.ttf"
+          ]
         }
       ]
     ],
