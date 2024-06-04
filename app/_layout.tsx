@@ -2,7 +2,7 @@ import { useFonts } from "expo-font";
 import { Stack } from "expo-router";
 import { useCallback } from "react";
 import { ActivityIndicator } from "react-native";
-
+import { GestureHandlerRootView, Gesture } from "react-native-gesture-handler";
 export default function RootLayout() {
   const [fontsLoaded, fontError] = useFonts({
     "Inter-Black": require("@/assets/fonts/Inter-Black.ttf"),
@@ -20,17 +20,19 @@ export default function RootLayout() {
   }
 
   return (
-    <Stack
-      screenOptions={{
-        headerStyle: {},
-      }}
-    >
-      <Stack.Screen
-        name="index"
-        options={{
-          title: "Home",
+    <GestureHandlerRootView style={{ flex: 1 }}>
+      <Stack
+        screenOptions={{
+          headerStyle: {},
         }}
-      />
-    </Stack>
+      >
+        <Stack.Screen
+          name="index"
+          options={{
+            title: "Home",
+          }}
+        />
+      </Stack>
+    </GestureHandlerRootView>
   );
 }
