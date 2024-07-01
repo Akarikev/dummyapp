@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "latitude": 5.603717,
+    "longitude": -0.186964,
+    "price": 50,
+    "title": "Cozy Apartment in the Heart of Accra",
+    "numberOfStars": 4.5,
+    "rating": 123,
+    "image": "https://via.placeholder.com/150",
+    "description": "A cozy apartment located centrally in Accra, perfect for exploring the city."
+  },
+  {
+    "id": 2,
+    "latitude": 5.614818,
+    "longitude": -0.205874,
+    "price": 75,
+    "title": "Luxury Studio with City View",
+    "numberOfStars": 4.8,
+    "rating": 98,
+    "image": "https://via.placeholder.com/150",
+    "description": "A luxurious studio offering stunning views of the cityscape, ideal for a comfortable stay."
+  },
+  {
+    "id": 3,
+    "latitude": 5.622392,
+    "longitude": -0.173692,
+    "price": 60,
+    "title": "Modern Apartment Near the Beach",
+    "numberOfStars": 4.7,
+    "rating": 87,
+    "image": "https://via.placeholder.com/150",
+    "description": "A modern apartment located close to the beach, offering a relaxing getaway."
+  },
+  {
+    "id": 4,
+    "latitude": 5.583618,
+    "longitude": -0.192945,
+    "price": 80,
+    "title": "Spacious 2-Bedroom Apartment",
+    "numberOfStars": 4.6,
+    "rating": 102,
+    "image": "https://via.placeholder.com/150",
+    "description": "A spacious apartment with two bedrooms, perfect for families or groups."
+  },
+  {
+    "id": 5,
+    "latitude": 5.592984,
+    "longitude": -0.202924,
+    "price": 55,
+    "title": "Charming Apartment with Balcony",
+    "numberOfStars": 4.4,
+    "rating": 115,
+    "image": "https://via.placeholder.com/150",
+    "description": "A charming apartment featuring a balcony with lovely views."
+  },
+  {
+    "id": 6,
+    "latitude": 5.615798,
+    "longitude": -0.170617,
+    "price": 70,
+    "title": "Elegant Apartment in Prime Location",
+    "numberOfStars": 4.9,
+    "rating": 67,
+    "image": "https://via.placeholder.com/150",
+    "description": "An elegant apartment situated in a prime location, offering top-notch amenities."
+  },
+  {
+    "id": 7,
+    "latitude": 5.599254,
+    "longitude": -0.188442,
+    "price": 65,
+    "title": "Bright and Airy Loft",
+    "numberOfStars": 4.5,
+    "rating": 134,
+    "image": "https://via.placeholder.com/150",
+    "description": "A bright and airy loft with modern decor and plenty of natural light."
+  },
+  {
+    "id": 8,
+    "latitude": 5.607545,
+    "longitude": -0.196348,
+    "price": 90,
+    "title": "Penthouse with Stunning Views",
+    "numberOfStars": 5.0,
+    "rating": 55,
+    "image": "https://via.placeholder.com/150",
+    "description": "A luxurious penthouse offering stunning views and high-end amenities."
+  },
+  {
+    "id": 9,
+    "latitude": 5.628476,
+    "longitude": -0.175932,
+    "price": 45,
+    "title": "Affordable Studio Apartment",
+    "numberOfStars": 4.3,
+    "rating": 145,
+    "image": "https://via.placeholder.com/150",
+    "description": "An affordable studio apartment that doesn't compromise on comfort."
+  },
+  {
+    "id": 10,
+    "latitude": 5.602394,
+    "longitude": -0.183342,
+    "price": 85,
+    "title": "Stylish Apartment with Rooftop Access",
+    "numberOfStars": 4.7,
+    "rating": 110,
+    "image": "https://via.placeholder.com/150",
+    "description": "A stylish apartment with access to a rooftop area, perfect for relaxing evenings."
+  }
+]

@@ -10,7 +10,8 @@ const descriptions = `
 
    ~~1. Knowing the Basics (Practically React)~~
    ~~2. Onboarding Page~~
-     3. Mardown Editor    
+   ~~3. Mardown Editor~~
+     4. Lottie Animations    
 `;
 
 const DayData = () => {
